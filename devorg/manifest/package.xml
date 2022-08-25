@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		<members>account_creation</members>
-		<name>Flow</name>
-	</types>
-	<types>
-		<members>account_creation</members>
-		<name>FlowDefinition</name>
+		<members>sample contract</members>
+		<name>Profile</name>
 	</types>
 	<version>53.0</version>
 </Package>
